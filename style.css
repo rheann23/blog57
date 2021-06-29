@@ -1,0 +1,60 @@
+.header_div{
+    background-color: white;
+    color: red;
+}
+
+.header_div img{
+    width: 100px;
+}
+body{
+    background-color: rgb(206, 24, 130);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.main_div{
+    background-color: rgb(27, 149, 165);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label{
+    background-color: rgb(179, 176, 30);
+    padding: 10px;
+    width: 310px;
+    margin-bottom: 0px;
+    box-shadow:5px 5px 18px white ;
+}
+
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border:1px solid ;
+}
+
+#camera,#result{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div{
+    background-color: rgb(173, 230, 216);
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.footer_div img{
+    width:70px ;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(194, 116, 159);
+    bottom: 0;
+    width: 100%;
+    background-color: wheat;
+    line-height: 3;
+    text-align: center;
+}
